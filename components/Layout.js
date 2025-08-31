@@ -16,7 +16,7 @@ export default function Layout({ children, title, description }) {
           <nav className="space-x-6">
             <Link href="/">Home</Link>
             <Link href="/services">Services</Link>
-            <Link href="/projects">Projects</Link>
+            <Link href="/Our-Process">Our-Process</Link>
             <Link href="/about">About</Link>
             <Link href="/contact">Contact</Link>
           </nav>
