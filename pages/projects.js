@@ -2,10 +2,10 @@ import Layout from "../components/Layout";
 
 export default function Projects() {
   return (
-    <Layout title="Projects | Magen Global Construction" description="Recent construction projects across Canada.">
+    <Layout title="Our Process | Magen Global Construction" description="Recent construction projects across Canada.">
       <section className="py-20">
         <div className="max-w-6xl mx-auto px-6">
-          <h1 className="text-3xl font-bold text-center mb-12">Recent Projects</h1>
+          <h1 className="text-3xl font-bold text-center mb-12">Our Process</h1>
           <div className="grid md:grid-cols-3 gap-8">
             {[1, 2, 3].map((n) => (
               <div key={n} className="rounded-xl overflow-hidden shadow-md bg-white">

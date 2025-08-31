@@ -17,8 +17,14 @@ export default function Contact() {
           </form>
 
           <div className="mt-10 text-center">
-            <p>Email: info@magenglobalconstruction.com</p>
-            <p>Phone: (123) 456-7890</p>
+            <p>Email: nkem@magenglobalconstruction.com</p>
+            <p>Phone: (416) 660-9838</p>
+            <p>
+  <a href="https://calendly.com/nkem-magenglobalconstruction/30min" target="_blank" rel="noopener noreferrer" className="text-brand-600 hover:underline">
+    Book a Call
+  </a>
+</p>
+
           </div>
         </div>
       </section>
