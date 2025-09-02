@@ -23,7 +23,7 @@ export default function Services() {
     >
       <section className="py-20 bg-gray-100">
         <div className="max-w-6xl mx-auto px-6">
-          <h1 className="text-3xl font-bold text-center mb-12">Our Services</h1>
+          <h1 className="text-3xl font-bold text-center mb-12">Our Acquisitions</h1>
           <div className="grid md:grid-cols-3 gap-8">
             {services.map((s, i) => (
               <div key={i} className="shadow-md rounded-lg p-6 bg-white">

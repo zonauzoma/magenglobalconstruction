@@ -15,7 +15,7 @@ export default function Layout({ children, title, description }) {
           <h1 className="text-xl font-bold text-blue-700">MAGËN Global Construction</h1>
           <nav className="space-x-6">
             <Link href="/">Home</Link>
-            <Link href="/services">Services</Link>
+            <Link href="/services">Acquisitions</Link>
             <Link href="/Our-Process">Our-Process</Link>
             <Link href="/about">About</Link>
             <Link href="/contact">Contact</Link>
